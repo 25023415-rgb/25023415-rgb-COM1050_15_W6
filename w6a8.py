@@ -8,5 +8,5 @@ for tu in danh_sach:
     else:
         demsolan[tu] = 1
 
-# 4. In kết quả
+
 print(demsolan)
